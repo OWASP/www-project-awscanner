@@ -1,6 +1,6 @@
 ---
 
-layout: col-sidebar
+layout: null
 title: OWASP AWScanner
 tags: AWS scanner eliuha
 level: 1
