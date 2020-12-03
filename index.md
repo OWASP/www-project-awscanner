@@ -2,10 +2,10 @@
 
 layout: col-sidebar
 title: OWASP AWScanner
-tags: example-tag
+tags: AWS, scanner, eliuha, Ilya Chernyakov
 level: 1
 type: 
-pitch: A very brief, one-line description of your project
+pitch: Finds internet-exposed resources in an AWS account. 
 
 ---
 
