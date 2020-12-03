@@ -1,13 +1,13 @@
 ### AWScanner Information
 * [Incubator Project](#)
 * [Type of Project](#)
-* [Version 0.0.0](#)
+* [Version 0.9](#)
 * [Builder](#)
 * [Breaker](#)
 
 ### Downloads or Social Links
-* [Download](#)
-* [Meetup](#)
+* [Download](https://github.com/OWASP/awscanner/)
+
 
 ### Code Repository
 * [repo](https://github.com/OWASP/awscanner/)
