@@ -9,4 +9,3 @@ pitch: Finds internet-exposed resources in an AWS account.
 
 ---
 
-test
