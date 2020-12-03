@@ -1,11 +1,21 @@
 ---
-title: Example
+title: Installation
 layout:  null
 tab: true
 order: 1
 tags: example-tag
 ---
 
-## Example
+# Installation
+```shell script
+git clone git@gitlab.com:eliuha/awscanner.git
+pip install aws-shell
+cd awscanner
+pip install -r requirements.txt 
+```
+# Usage 
+```shell script
+aws configure
+python detector.py
+```
 
-Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all.
